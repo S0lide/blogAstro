@@ -1,14 +1,8 @@
 ---
-import '../layouts/Layout.astro'
 import Layout from "../layouts/Layout.astro";
-import ArticlePreview from "../components/ArticlePreview.astro";
-import Database from "../../database.json"
+import ArticleList from "../components/ArticleList.svelte";
 ---
 
 <Layout>
-    <ul>
-        {Database.articles.map((article) => (
-            <ArticlePreview autor={article.autor} tags={article.tags} title={article.title} />
-        ))}
-    </ul>
+    <ArticleList client:load />
 </Layout>

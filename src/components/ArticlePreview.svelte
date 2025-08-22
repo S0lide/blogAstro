@@ -1,12 +1,14 @@
----
-interface Props {
-  title: string;
-  autor: string; // intentionally spelled as in current props
-  tags: string[];
-}
+<script lang="ts">
+    let {
+        title,
+        autor,
+        tags,
+    }: {
+        title: string
+        autor: string
+        tags: string[]} = $props();
 
-const { title, autor, tags } = Astro.props as Props;
----
+</script>
 
 <article class="group rounded-lg border border-zinc-200 bg-white p-4 shadow-sm transition-colors hover:border-black hover:shadow-md">
   <div class="flex flex-col gap-4 sm:flex-row">
@@ -27,15 +29,13 @@ const { title, autor, tags } = Astro.props as Props;
       </h3>
       <p class="mt-1 text-sm text-zinc-600">Par {autor}</p>
 
-      {tags && tags.length > 0 && (
         <div class="mt-3 flex flex-wrap gap-2">
-          {tags.map((tag) => (
-            <span class="inline-flex items-center rounded-full border border-zinc-300 bg-white px-2.5 py-1 text-xs font-medium text-zinc-800">
-              {tag}
-            </span>
-          ))}
+            {#each tags as tag}
+                <span class="inline-flex items-center rounded-full border border-zinc-300 bg-white px-2.5 py-1 text-xs font-medium text-zinc-800">
+                    {tag}
+                </span>
+            {/each}
         </div>
-      )}
     </div>
   </div>
 </article>
