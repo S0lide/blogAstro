@@ -1,3 +1,11 @@
+<script lang="ts">
+    import { SearchValue } from "../stores/ArticleStore.svelte.ts";
+
+    $effect(() => {
+        console.log($SearchValue)
+    })
+</script>
+
 <div class="flex flex-1 justify-center">
     <form role="search" class="w-full max-w-xl">
         <div class="relative">
@@ -12,6 +20,7 @@
                     class="w-full rounded-md border border-zinc-300 bg-zinc-50 py-2 pl-9 pr-3 text-sm placeholder-zinc-500 outline-none ring-0 transition focus:border-transparent focus:ring-2 focus:ring-black"
                     autocomplete="off"
                     aria-label="Rechercher"
+                    bind:value={$SearchValue}
             />
         </div>
     </form>
