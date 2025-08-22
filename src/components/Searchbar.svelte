@@ -1,9 +1,5 @@
 <script lang="ts">
     import { SearchValue } from "../stores/ArticleStore.svelte.ts";
-
-    $effect(() => {
-        console.log($SearchValue)
-    })
 </script>
 
 <div class="flex flex-1 justify-center">
