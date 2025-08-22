@@ -5,24 +5,19 @@ import Searchbar from "./Searchbar.svelte"
 <header class="sticky top-0 z-50 w-full border-b border-zinc-200 bg-white text-black">
   <div class="px-4">
     <div class="flex h-16 items-center gap-4">
-      <!-- Left: Logo -->
+
       <a href="/" class="flex items-center gap-2">
         <p>BlogAstro</p>
       </a>
 
-      <!-- Center: Search -->
         <Searchbar client:load/>
 
-      <!-- Right: Create Article Button -->
       <div class="flex shrink-0 items-center">
         <a
           href="/nouvel-article"
           class="inline-flex items-center gap-2 rounded-md bg-black px-3.5 py-2.5 text-sm font-medium text-white shadow-sm transition-colors hover:bg-zinc-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-black focus-visible:ring-offset-2"
         >
-          <svg class="size-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M12 5v14"></path>
-            <path d="M5 12h14"></path>
-          </svg>
+          <img src="/cross.svg" alt="cross" class="size-4"/>
           Créer un article
         </a>
       </div>

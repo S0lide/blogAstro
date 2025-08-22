@@ -13,7 +13,7 @@
 <article class="group rounded-lg border border-zinc-200 bg-white p-4 shadow-sm transition-colors hover:border-black hover:shadow-md">
   <div class="flex flex-col gap-4 sm:flex-row">
     <!-- Preview Image -->
-    <div class="w-full sm:w-48 shrink-0 overflow-hidden rounded-md border border-zinc-200 bg-white">
+    <div class="h-full w-auto sm:w-48 shrink-0 overflow-hidden rounded-md border border-zinc-200 bg-white">
       <img
         src="/imagePreview.svg"
         alt={`Illustration pour l'article ${title}`}
