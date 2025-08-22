@@ -1,8 +1,14 @@
 ---
 import '../layouts/Layout.astro'
 import Layout from "../layouts/Layout.astro";
+import ArticlePreview from "../components/ArticlePreview.astro";
+import Database from "../../database.json"
 ---
 
 <Layout>
-    <p>Bienvenue a toi !</p>
+    <ul>
+        {Database.articles.map((article) => (
+            <ArticlePreview autor={article.autor} tags={article.tags} title={article.title} />
+        ))}
+    </ul>
 </Layout>

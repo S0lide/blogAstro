@@ -2,72 +2,72 @@
   "articles": [
     {
       "id": 1,
-      "titre": "L'intelligence artificielle dans le secteur de la santé",
-      "auteur": "Dr. Marie Dubois",
-      "texte": "L'intelligence artificielle révolutionne le domaine médical en permettant des diagnostics plus précis et des traitements personnalisés. Les algorithmes d'apprentissage automatique peuvent analyser des images médicales avec une précision remarquable, aidant les radiologues à détecter des anomalies subtiles. Cette technologie promet de transformer la pratique médicale dans les années à venir.",
+      "title": "L'intelligence artificielle dans le secteur de la santé",
+      "autor": "Dr. Marie Dubois",
+      "text": "L'intelligence artificielle révolutionne le domaine médical en permettant des diagnostics plus précis et des traitements personnalisés. Les algorithmes d'apprentissage automatique peuvent analyser des images médicales avec une précision remarquable, aidant les radiologues à détecter des anomalies subtiles. Cette technologie promet de transformer la pratique médicale dans les années à venir.",
       "tags": ["intelligence artificielle", "santé", "médecine", "diagnostic", "technologie"]
     },
     {
       "id": 2,
-      "titre": "Les enjeux du réchauffement climatique",
-      "auteur": "Prof. Jean Martin",
-      "texte": "Le réchauffement climatique représente l'un des défis majeurs de notre époque. L'augmentation des températures mondiales entraîne une fonte accélérée des glaciers, une montée du niveau des mers et des événements météorologiques extrêmes plus fréquents. Il est crucial d'agir rapidement pour limiter les émissions de gaz à effet de serre et développer des solutions durables.",
+      "title": "Les enjeux du réchauffement climatique",
+      "autor": "Prof. Jean Martin",
+      "text": "Le réchauffement climatique représente l'un des défis majeurs de notre époque. L'augmentation des températures mondiales entraîne une fonte accélérée des glaciers, une montée du niveau des mers et des événements météorologiques extrêmes plus fréquents. Il est crucial d'agir rapidement pour limiter les émissions de gaz à effet de serre et développer des solutions durables.",
       "tags": ["climat", "environnement", "réchauffement", "écologie", "durabilité"]
     },
     {
       "id": 3,
-      "titre": "L'évolution du travail à distance post-COVID",
-      "auteur": "Sarah Thompson",
-      "texte": "La pandémie de COVID-19 a accéléré l'adoption du travail à distance dans de nombreuses entreprises. Cette nouvelle organisation du travail présente des avantages comme la flexibilité et la réduction des déplacements, mais aussi des défis en termes de collaboration et de bien-être des employés. Les entreprises doivent maintenant repenser leurs modèles de travail hybrides.",
+      "title": "L'évolution du travail à distance post-COVID",
+      "autor": "Sarah Thompson",
+      "text": "La pandémie de COVID-19 a accéléré l'adoption du travail à distance dans de nombreuses entreprises. Cette nouvelle organisation du travail présente des avantages comme la flexibilité et la réduction des déplacements, mais aussi des défis en termes de collaboration et de bien-être des employés. Les entreprises doivent maintenant repenser leurs modèles de travail hybrides.",
       "tags": ["travail", "télétravail", "COVID-19", "entreprise", "productivité"]
     },
     {
       "id": 4,
-      "titre": "L'art culinaire français à travers les siècles",
-      "auteur": "Chef Antoine Rousseau",
-      "texte": "La gastronomie française est reconnue mondialement pour sa richesse et sa diversité. Des plats traditionnels régionaux aux créations de la haute cuisine, l'art culinaire français reflète l'histoire et la culture du pays. Les grands chefs continuent d'innover tout en préservant les techniques ancestrales qui font la réputation de la cuisine française.",
+      "title": "L'art culinaire français à travers les siècles",
+      "autor": "Chef Antoine Rousseau",
+      "text": "La gastronomie française est reconnue mondialement pour sa richesse et sa diversité. Des plats traditionnels régionaux aux créations de la haute cuisine, l'art culinaire français reflète l'histoire et la culture du pays. Les grands chefs continuent d'innover tout en préservant les techniques ancestrales qui font la réputation de la cuisine française.",
       "tags": ["gastronomie", "cuisine française", "culture", "tradition", "art culinaire"]
     },
     {
       "id": 5,
-      "titre": "Les cryptomonnaies et l'avenir de la finance",
-      "auteur": "Alex Chen",
-      "texte": "Les cryptomonnaies bouleversent le système financier traditionnel en offrant des alternatives décentralisées aux monnaies conventionnelles. Le Bitcoin et l'Ethereum ouvrent la voie à de nouveaux modèles économiques basés sur la blockchain. Cependant, leur volatilité et les questions réglementaires restent des défis majeurs pour leur adoption généralisée.",
+      "title": "Les cryptomonnaies et l'avenir de la finance",
+      "autor": "Alex Chen",
+      "text": "Les cryptomonnaies bouleversent le système financier traditionnel en offrant des alternatives décentralisées aux monnaies conventionnelles. Le Bitcoin et l'Ethereum ouvrent la voie à de nouveaux modèles économiques basés sur la blockchain. Cependant, leur volatilité et les questions réglementaires restent des défis majeurs pour leur adoption généralisée.",
       "tags": ["cryptomonnaie", "blockchain", "finance", "bitcoin", "technologie", "économie"]
     },
     {
       "id": 6,
-      "titre": "L'exploration spatiale et la colonisation de Mars",
-      "auteur": "Dr. Elena Rodriguez",
-      "texte": "L'humanité se tourne vers Mars comme prochaine frontière de l'exploration spatiale. Les missions récentes de la NASA et de SpaceX marquent des étapes importantes vers une éventuelle colonisation de la planète rouge. Les défis techniques, biologiques et psychologiques sont immenses, mais les avancées technologiques rendent ce rêve de plus en plus réalisable.",
+      "title": "L'exploration spatiale et la colonisation de Mars",
+      "autor": "Dr. Elena Rodriguez",
+      "text": "L'humanité se tourne vers Mars comme prochaine frontière de l'exploration spatiale. Les missions récentes de la NASA et de SpaceX marquent des étapes importantes vers une éventuelle colonisation de la planète rouge. Les défis techniques, biologiques et psychologiques sont immenses, mais les avancées technologiques rendent ce rêve de plus en plus réalisable.",
       "tags": ["espace", "Mars", "NASA", "SpaceX", "exploration", "colonisation"]
     },
     {
       "id": 7,
-      "titre": "L'impact des réseaux sociaux sur la société moderne",
-      "auteur": "Dr. Lisa Wang",
-      "texte": "Les réseaux sociaux ont transformé la façon dont nous communiquons et partageons l'information. Ils offrent des opportunités de connexion mondiale, mais soulèvent aussi des préoccupations concernant la vie privée, la désinformation et l'impact sur la santé mentale. Il devient essentiel de trouver un équilibre entre les bénéfices et les risques de ces plateformes.",
+      "title": "L'impact des réseaux sociaux sur la société moderne",
+      "autor": "Dr. Lisa Wang",
+      "text": "Les réseaux sociaux ont transformé la façon dont nous communiquons et partageons l'information. Ils offrent des opportunités de connexion mondiale, mais soulèvent aussi des préoccupations concernant la vie privée, la désinformation et l'impact sur la santé mentale. Il devient essentiel de trouver un équilibre entre les bénéfices et les risques de ces plateformes.",
       "tags": ["réseaux sociaux", "société", "communication", "technologie", "santé mentale"]
     },
     {
       "id": 8,
-      "titre": "Les énergies renouvelables : vers un avenir durable",
-      "auteur": "Pierre Lefebvre",
-      "texte": "La transition vers les énergies renouvelables s'accélère face à l'urgence climatique. L'énergie solaire, éolienne et hydraulique deviennent de plus en plus compétitives face aux énergies fossiles. Les innovations technologiques et les politiques gouvernementales favorables créent un momentum pour un avenir énergétique plus propre et durable.",
+      "title": "Les énergies renouvelables : vers un avenir durable",
+      "autor": "Pierre Lefebvre",
+      "text": "La transition vers les énergies renouvelables s'accélère face à l'urgence climatique. L'énergie solaire, éolienne et hydraulique deviennent de plus en plus compétitives face aux énergies fossiles. Les innovations technologiques et les politiques gouvernementales favorables créent un momentum pour un avenir énergétique plus propre et durable.",
       "tags": ["énergies renouvelables", "environnement", "solaire", "éolien", "durabilité", "transition énergétique"]
     },
     {
       "id": 9,
-      "titre": "L'évolution de l'éducation numérique",
-      "auteur": "Prof. Marina Kowalski",
-      "texte": "L'éducation numérique révolutionne les méthodes d'apprentissage traditionnelles. Les plateformes en ligne, les cours interactifs et l'intelligence artificielle personnalisent l'expérience éducative. Cette transformation offre un accès démocratisé au savoir, mais nécessite une adaptation des pédagogies et une formation continue des enseignants.",
+      "title": "L'évolution de l'éducation numérique",
+      "autor": "Prof. Marina Kowalski",
+      "text": "L'éducation numérique révolutionne les méthodes d'apprentissage traditionnelles. Les plateformes en ligne, les cours interactifs et l'intelligence artificielle personnalisent l'expérience éducative. Cette transformation offre un accès démocratisé au savoir, mais nécessite une adaptation des pédagogies et une formation continue des enseignants.",
       "tags": ["éducation", "numérique", "apprentissage", "technologie", "pédagogie", "formation"]
     },
     {
       "id": 10,
-      "titre": "La renaissance de l'agriculture urbaine",
-      "auteur": "Emma Laurent",
-      "texte": "L'agriculture urbaine connaît un renouveau dans les grandes métropoles mondiales. Des jardins sur les toits aux fermes verticales, ces nouvelles formes d'agriculture répondent aux enjeux de sécurité alimentaire et de développement durable en ville. Elles créent du lien social tout en réduisant l'empreinte carbone de l'alimentation urbaine.",
+      "title": "La renaissance de l'agriculture urbaine",
+      "autor": "Emma Laurent",
+      "text": "L'agriculture urbaine connaît un renouveau dans les grandes métropoles mondiales. Des jardins sur les toits aux fermes verticales, ces nouvelles formes d'agriculture répondent aux enjeux de sécurité alimentaire et de développement durable en ville. Elles créent du lien social tout en réduisant l'empreinte carbone de l'alimentation urbaine.",
       "tags": ["agriculture urbaine", "ville", "alimentation", "durabilité", "jardins", "métropole"]
     }
   ]
